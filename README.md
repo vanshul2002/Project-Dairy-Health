@@ -26,9 +26,15 @@ Currently we are using ThingSpeak of MATLAB but in future we will host all the d
 <h2>🛠️TechStack</h2>
 <hr>
 <h3>ESP8266 NodeMCU</h3>
-<h3>DS18b20</h3>
-<h3></h3>
-<h3></h3>
+<h3>DS18b20 Waterproof Temperature Sensor</h3>
+<h3>MPU6050 Sensor</h3>
+<h3>Heart Rate Detector</h3>
+<br>
+<hr>
+<br>
+<h2>📷 Gallery</h2>
+<hr>
+
 
 
 
